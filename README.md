@@ -9,9 +9,8 @@
 To view this project use the EXPO client...
 First Clone Repo to your Desktop then run npm install to add dependencies
 
-**Demo**  
-
-![Kinfolk demo](./assets/images/app.png)
+**App**  
+[App Homescreen](https://github.com/charronda/KinFolk/blob/master/HiddenBrackets/assets/images/homescreen550px.png)
 
 ![Scan the QR Code in Expo](./assets/images/qrcode.png)
 https://expo.io/@rodesigned/hiddenbrackets
