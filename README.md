@@ -1,4 +1,4 @@
-# HiddenBrackets
+# KinFolk Family Reunion App
 **Team Project**
 - Project Description: Kinfolk is a family event app where family members can create their own group account to connect with each family member during an event.
 
