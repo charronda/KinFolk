@@ -10,9 +10,10 @@ To view this project use the EXPO client by download Expo then scan the QR Code 
 Clone Repo to your Desktop then run npm install to add dependencies and yarn start
 
 **App**  
-[App Homescreen](https://github.com/charronda/KinFolk/blob/master/HiddenBrackets/assets/images/homescreen550px.png?raw=true)
-(https://github.com/charronda/KinFolk/blob/master/HiddenBrackets/assets/images/itinerary.png?raw=true)
+![App Homescreen](https://github.com/charronda/KinFolk/blob/master/HiddenBrackets/assets/images/homescreen550px.png?raw=true)
+![Itinerary view](https://github.com/charronda/KinFolk/blob/master/HiddenBrackets/assets/images/itinerary.png?raw=true)
 
-https://expo.io/@rodesigned/hiddenbrackets
+Expo Link: https://expo.io/@rodesigned/hiddenbrackets
+
 ![Scan the QR Code in Expo](https://github.com/charronda/KinFolk/blob/master/HiddenBrackets/assets/images/qrcode.png?raw=true)
 
